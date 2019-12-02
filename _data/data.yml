@@ -78,21 +78,18 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Training Team Lead
+      time: June 2016 - Present
+      company: Software Sustainability Institute, UK
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+          Working to improve the provision and access to training in foundational computational and data 
+          management skills and best practices for open and reproducible research for the UK researchers across 
+          domains by diffusion of a model of training based on pedagogical research and principles of openness, 
+          inclusivity, accessibility and collaboration and working closely with The Carpentries worldwide community on 
+          these common goals. Engaging with UK Higher Education institutions, universities, Centres for Doctoral Training and 
+          projects involving training by providing consultancy, guidance and support, and with various communities of 
+          practice formed around research software on collaboratively building a computationally-skilled researcher base.
 
-          - Bullet point
           - Bullet point 
 
     - role: Senior Software Engineer
