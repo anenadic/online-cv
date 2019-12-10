@@ -55,7 +55,8 @@ education:
     - degree: PhD in Computer Science
       university: University of Manchester, UK
       time: 2002 - 2005
-      details: Network security protocols
+      details: | 
+      Network security protocols
 
     - degree: BSc in Mathematics & Computer Science
       university: University of Belgrade, Serbia
@@ -87,7 +88,7 @@ experiences:
     - role: Senior Research Software Engineer
       time: 2010 - 2013
       company: School of Computer Science, University of Manchester, UK
-      details: 
+      details: |
           - Development, deployment and maintenance of several Web registries, services, portal applications and scientific 
           workflow execution software projects - Taverna (Java), BioCatalogue (Ruby on Rails product deployed in the EBI’s 
           Embassy cloud),  BioVel (Ruby on Rails product deployed on AWS) SCAPE EU (Hadoop’s MapReduce), NeISS (Java portlet).
@@ -105,12 +106,12 @@ experiences:
     - role: Post Doctoral Researcher
       time: 2005 - 2008
       company: School of Computer Science, University of Manchester, UK
-      details:
+      details: |
  
     - role: Research Associate
       time: 2002 - 2005
       company: School of Computer Science, University of Manchester, UK
-      details:
+      details: |
 
 projects:
     title: Activities
