@@ -185,23 +185,46 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#     papers:
+#       - title: The Art of Computer Programming
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
+       papers: 
+        - title: Ten simple rules for measuring the impact of workshops. (2018)
+          authors: Sufi, S., Nenadic, A., Silva, R., Duckles, B., Simera, I., et al. 
+          conference: "PLOS Computational Biology 14(8):e1006191, https://doi.org/10.1371/journal.pcbi.1006191"
+          
+       papers: 
+        - title: ELIXIR-UK role in bioinformatics training at the national level and across ELIXIR (2017)
+          authors: Larcombe, L., Hendricusdottir, R., Attwood, T. et al. 
+          conference: "F1000Research 2017, 6:952 https://doi.org/10.12688/f1000research.11837.1"
+
+
+# Pawlik, A., van Gelder, C., Nenadic, A. et al. (2017) Developing a strategy for computational lab skills training through Software and Data Carpentry: Experiences from the ELIXIR Pilot action F1000Research, 6:1040, https://doi.org/10.12688/f1000research.11718.1
+
+# Nenadic, A., Beard, N., Thurston, M., Sansone, S. A., Goble, C. A., & Attwood, T. (2016). TeSS–Training Portal. F1000Research, 5.
+
+# Ison, J. et al. (2016). Tools and data services registry: a community effort to document bioinformatics resources. (2016). Nucleic Acids Res., 44(D1):D38-47. doi: 10.1093/nar/gkv1116
+
+# Beard, N., Nenadic, A., Attwood, T., Goble, C., Thurston, M., & Sansone, S. A. (2015). ELIXIR’s Training eSupport System–TeSS. F1000Research, 4.
+# Unrefereed
+# Nenadic, A.,  Sufi, S. (2019), CarpentryConnect Manchester 2019 Conference (CCMcr19) (2019). Report, https://zenodo.org/record/3458023.
+
+# Sufi, S., Aragon, S., Nenadic, A., Software Sustainability Institute’s Event Organisation Guide (2019). https://event-organisation-guide.readthedocs.io/en/latest/.
+
 
 skills:
     title: Skills &amp; Proficiency
