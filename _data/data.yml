@@ -145,16 +145,19 @@ projects:
         workshop data for impact analysis, providing first-line of support for the community."
 
       - title: Carpentries Instructor Trainer
-        link: ""
+        link: "https://carpentries.org/trainers/"
         tagline: "2017-present, taught at 9 Instructor Training workshops (of which 3 were self-organised)"
       
       - title: Volunteer and workshop helper at EuroPython Edinburgh 2018
+        link: "https://ep2018.europython.eu/en/"
+        tagline: "involved with 'Beginner's Day', helping people start coding with Python or solve their coding/data problems"
       
       - title: Volunteer and workshop helper at Hacktoberfest Manchester 2019 
         link: "https://www.meetup.com/Python-North-West-Meetup/events/265188743/"
         tagline: "Part of month-long celebration of open source software by DigitalOcean, GitHub and Twilio, and locally organised by PyDataMCR, HER+data MCR, RLadiesMCR, PythonNW, and Django Girls MCR."
       
       - title: Co-lead of the BioSchema community for the development of BioSchemas for life sciences training materials
+        link: "https://bioschemas.org/"
         tagline: "2015-2016, a standard Schema.org markup to structure online training resources in life sciences"
         
 
