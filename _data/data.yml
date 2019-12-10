@@ -110,47 +110,52 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Carpentry community engagement, 2014 - present
+      - title: Carpentry community engagement
         link: "#hook"
-        tagline: "Spreading the adoption of The Carpentries model of teaching, advocating and supporting instituions on becoming members 
+        tagline: "2014 - present, spreading the adoption of The Carpentries model of teaching, advocating and supporting instituions on becoming members 
           of The Carpentries community, recruiting more members into the community and training instructors to help grow the capacity."
 
-      - title: Expert at Mozilla Open Life Sciences Leadership Programme, 2019 -2020
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Expert at Mozilla Open Life Sciences Leadership Programme
+        link: "https://www.mozillapulse.org/entry/1434"
+        tagline: "2019 -2020, helping early stage researchers and potential academic leaders to become Open Science ambassadors"
 
       - title: BBSRC National Capabilities Mid-Term Review Panel member - 2019
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: ""
 
-      - title: Curriculum Advisory Committee Member - Public Health and Health Data Research - 2018-present
+      - title: Curriculum Advisory Committee Member for Health Data Research UK (HDR UK)
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "2018-present, helping devise a public health and health data research training curriculum"
 
-      - title: Conference Lead Organiser/Project Manager - CarpentryConnect Manchester - 2019
+      - title: Conference Lead Organiser & Project Manager for CarpentryConnect Manchester 2019
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "CarpentryConnect Manchester 2019"
         
-      - title: Conference Organiser - CarpentryCon Madison, US - 2019-2020
+      - title: Conference Organiser for CarpentryCon Madison 2020
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Responsible for website, outreach and programme"
         
-      - title: Software and Data Carpentry workshop instructor and organiser - instructed at over 20 and organised 12 Carpentry 
-      workshops - 2015-2019
+      - title: Software and Data Carpentry workshop instructor and organiser
+        link: ""
+        tagline: "2015-present, instructed at over 20 and organised 12 Carpentry workshops"
       
-      - title: Regional Carpentry workshop coordinator and administrator for the UK  - advertising workshops, brokering 
-      between instructors and hosts, logging and analysis of workshop data, providing first-line of support for the community 
-      - 2016-present
+      - title: Regional Carpentry workshop coordinator and administrator for the UK
+        link: ""
+        tagline: "2016-present, advertising workshops, brokering between instructors and hosts, logging and analysis of 
+        workshop data for impact analysis, providing first-line of support for the community"
 
-      - title: Instructor Trainer - taught at 8 Instructor Training workshops (of which 3 were self-organised) - 2017-present
+      - title: Carpentries Instructor Trainer
+        link: ""
+        tagline: "2017-present, taught at 8 Instructor Training workshops (of which 3 were self-organised)"
       
-      - title: Volunteer and workshop helper - EuroPython Edinburgh - 2018
+      - title: Volunteer and workshop helper at EuroPython Edinburgh 2018
       
-      - title: Volunteer and workshop helper at Hacktoberfest Manchester 2019 - part of month-long celebration of open source software by DigitalOcean, GitHub and Twilio
+      - title: Volunteer and workshop helper at Hacktoberfest Manchester 2019 
         link: "https://www.meetup.com/Python-North-West-Meetup/events/265188743/"
-        tagline: "Organised by PyDataMCR, HER+data MCR, RLadiesMCR, PythonNW, and Django Girls MCR."
+        tagline: "Part of month-long celebration of open source software by DigitalOcean, GitHub and Twilio, and locally organised by PyDataMCR, HER+data MCR, RLadiesMCR, PythonNW, and Django Girls MCR."
       
-      - title: Co-lead of the BioSchema community for the development of BioSchemas for life sciences training materials - a standard Schema.org markup to structure online training resources in life sciences - 2015-2016
+      - title: Co-lead of the BioSchema community for the development of BioSchemas for life sciences training materials
+        tagline: "2015-2016, a standard Schema.org markup to structure online training resources in life sciences"
         
 
 publications:
