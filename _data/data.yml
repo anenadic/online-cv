@@ -55,7 +55,8 @@ education:
     - degree: PhD in Computer Science
       university: University of Manchester, UK
       time: 2002 - 2005
-      details: Network security protocols
+      details: |
+      - Network security protocols
 
     - degree: BSc in Mathematics & Computer Science
       university: University of Belgrade, Serbia
@@ -111,6 +112,17 @@ experiences:
       time: 2002 - 2005
       company: School of Computer Science, University of Manchester, UK
       details: |
+      
+    - role: Software engineer 
+      time: 2000 - 2001
+      company: eMobile (UK) Ltd., Manchester, UK
+      details: |
+      
+    - role: Database developer 
+      time: 1999 - 2000
+      company: DUEL, Belgrade, Serbia
+      details: |
+        - ORACLE database developer 
 
 projects:
     title: Activities
