@@ -43,56 +43,38 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Over the past 5 years committed to ongoing improvement of research software practice through training and 
-      community engagement work via the UK’s Software Sustainability Institute and ELIXIR EU Life Sciences Infrastructure Project. 
-      Driving the training trends forward by helping communities roll out new training strategies and curricula for 
-      research in individual domains. Maintaining the UK’s pivotal role within the international Carpentries community 
-      by helping deliver Software, Data, Library and HPC Carpentry training, driving key strategic decisions and handling international 
-      collaborations and outreach with training communities. 
+      Over the past 5 years committed to ongoing improvement of research software practice through training and community 
+      engagement work via the UK’s Software Sustainability Institute and ELIXIR EU Life Sciences Infrastructure Project. 
+      Driving the training trends forward by helping communities roll out new training strategies and develop curricula 
+      for research in individual domains. Maintaining the UK’s pivotal role within the international Carpentries community 
+      by running events, helping organisations and individuals deliver Software, Data, Library and HPC Carpentry training, 
+      driving key strategic decisions and handling national and international collaborations and outreach with different 
+      training communities. 
 
 education:
     - degree: PhD in Computer Science
       university: University of Manchester, UK
       time: 2002 - 2005
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
 
     - degree: BSc in Mathematics & Computer Science
       university: University of Belgrade, Serbia
       time: 1995 - 1999
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
 
 experiences:
     - role: Training Team Lead
       time: June 2016 - Present
       company: Software Sustainability Institute, UK
       details: |
-          Working to improve the provision and access to training in foundational computational and data 
-          management skills and best practices for open and reproducible research for the UK researchers across 
-          domains by diffusion of a model of training based on pedagogical research and principles of openness, 
-          inclusivity, accessibility and collaboration and working closely with The Carpentries worldwide community on 
-          these common goals. Engaging with UK Higher Education institutions, universities, Centres for Doctoral Training and 
-          projects involving training by providing consultancy, guidance and support, and with various communities of 
-          practice formed around research software on collaboratively building a computationally-skilled researcher base.
-
-          - Spreading the adoption of The Carpentries model of teaching, advocating and supporting instituions on becoming members 
-          of The Carpentries community, recruiting more members into the community and training instructors to help grow the capacity
-        
+          - Working to improve the provision and access to training in foundational computational and data management skills 
+          and best practices for open and reproducible research for UK researchers across domains by diffusion of a model of 
+          training based on pedagogical research and principles of openness, inclusivity, accessibility and collaboration. 
+          - Engaging with UK HE institutions, universities, CDTs, projects and communities of practice involving research 
+          software training in the UK and worldwide by providing them with consultancy, guidance and support around building 
+          a computationally skilled researcher base. 
+          - Supporting the training community in the UK by organising and teaching Carpentry and Instructor Training workshops 
+          and other training events to build capability and capacity within the research community in the UK and worldwide.
 
     - role: Senior Software Engineer
       time: 2014 - 2015
