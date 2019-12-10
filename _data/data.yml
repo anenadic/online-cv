@@ -76,9 +76,9 @@ experiences:
           - Supporting the training community in the UK by organising and teaching Carpentry and Instructor Training workshops 
           and other training events to build capability and capacity within the research community in the UK and worldwide.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Product manager
+      time: 2013 - 2014
+      company: School of Computer Science, University of Manchester, UK
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -89,18 +89,30 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+    - role: Senior Research Software Engineer
+      time: 2010 - 2013
+      company: School of Computer Science, University of Manchester, UK
+      details: 
+      
+    - role: Research Software Engineer
+      time: 2008 - 2010
+      company: School of Computer Science, University of Manchester, UK
+      details:
 
-          - Bullet point
-          - Bullet point
+    - role: Senior Research Software Engineer
+      time: 2010 - 2013
+      company: School of Computer Science, University of Manchester, UK
+      details: 
+     
+    - role: Post Doctoral Researcher
+      time: 2005 - 2008
+      company: School of Computer Science, University of Manchester, UK
+      details:
+ 
+    - role: Research Associate
+      time: 2002 - 2005
+      company: School of Computer Science, University of Manchester, UK
+      details:
 
 projects:
     title: Activities
