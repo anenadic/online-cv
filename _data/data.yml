@@ -103,32 +103,51 @@ experiences:
           - Bullet point
 
 projects:
-    title: Projects
+    title: Activities
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: Carpentry community engagement, 2014 - present
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Spreading the adoption of The Carpentries model of teaching, advocating and supporting instituions on becoming members 
+          of The Carpentries community, recruiting more members into the community and training instructors to help grow the capacity."
 
-      - title: DevStudio
+      - title: Expert at Mozilla Open Life Sciences Leadership Programme, 2019 -2020
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: BBSRC National Capabilities Mid-Term Review Panel member - 2019
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: Curriculum Advisory Committee Member - Public Health and Health Data Research - 2018-present
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - title: Conference Lead Organiser/Project Manager - CarpentryConnect Manchester - 2019
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        
+      - title: Conference Organiser - CarpentryCon Madison, US - 2019-2020
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        
+      - title: Software and Data Carpentry workshop instructor and organiser - instructed at over 20 and organised 12 Carpentry 
+      workshops - 2015-2019
+      
+      - title: Regional Carpentry workshop coordinator and administrator for the UK  - advertising workshops, brokering 
+      between instructors and hosts, logging and analysis of workshop data, providing first-line of support for the community 
+      - 2016-present
+
+      - title: Instructor Trainer - taught at 8 Instructor Training workshops (of which 3 were self-organised) - 2017-present
+      
+      - title: Volunteer and workshop helper - EuroPython Edinburgh - 2018
+      
+      -title: Co-lead of the BioSchema community for the development of BioSchemas for life sciences training materials - a standard Schema.org markup to structure online training resources in life sciences - 2015-2016
+        
 
 publications:
     title: Publications
