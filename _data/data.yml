@@ -111,7 +111,7 @@ projects:
 
     assignments:
       - title: Carpentry community engagement
-        link: "#hook"
+        link: "https://carpentries.org/regionalcoordinators/"
         tagline: "2014 - present, spreading the adoption of The Carpentries model of teaching, advocating and supporting instituions on becoming members 
           of The Carpentries community, recruiting more members into the community and training instructors to help grow the capacity."
 
@@ -119,20 +119,20 @@ projects:
         link: "https://www.mozillapulse.org/entry/1434"
         tagline: "2019 -2020, helping early stage researchers and potential academic leaders to become Open Science ambassadors"
 
-      - title: BBSRC National Capabilities Mid-Term Review Panel member - 2019
+      - title: BBSRC National Capabilities Mid-Term Review Panel member
         link: "#"
-        tagline: ""
+        tagline: "2019, reviewing 9 National Capabilities projects located at 5 bioscience and bioinformatics research institutions around the UK"
 
       - title: Curriculum Advisory Committee Member for Health Data Research UK (HDR UK)
-        link: "#"
+        link: "https://www.hdruk.ac.uk/"
         tagline: "2018-present, helping devise a public health and health data research training curriculum"
 
       - title: Conference Lead Organiser & Project Manager for CarpentryConnect Manchester 2019
-        link: "#"
-        tagline: "CarpentryConnect Manchester 2019"
+        link: "https://software.ac.uk/ccmcr19"
+        tagline: "Project managed the whole event"
         
       - title: Conference Organiser for CarpentryCon Madison 2020
-        link: "#"
+        link: "https://2020.carpentrycon.org/"
         tagline: "Responsible for website, outreach and programme"
         
       - title: Software and Data Carpentry workshop instructor and organiser
@@ -140,9 +140,9 @@ projects:
         tagline: "2015-present, instructed at over 20 and organised 12 Carpentry workshops"
       
       - title: Regional Carpentry workshop coordinator and administrator for the UK
-        link: ""
+        link: "https://carpentries.org/regionalcoordinators/"
         tagline: "2016-present, advertising workshops, brokering between instructors and hosts, logging and analysis of 
-        workshop data for impact analysis, providing first-line of support for the community"
+        workshop data for impact analysis, providing first-line of support for the community."
 
       - title: Carpentries Instructor Trainer
         link: ""
