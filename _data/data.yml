@@ -202,13 +202,13 @@ publications:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
        papers: 
-        - title: Ten simple rules for measuring the impact of workshops. (2018)
-          authors: Sufi, S., Nenadic, A., Silva, R., Duckles, B., Simera, I., et al. 
+        - title: "Ten simple rules for measuring the impact of workshops. (2018)"
+          authors: "Sufi, S., Nenadic, A., Silva, R., Duckles, B., Simera, I., et al." 
           conference: "PLOS Computational Biology 14(8):e1006191, https://doi.org/10.1371/journal.pcbi.1006191"
           
        papers: 
-        - title: ELIXIR-UK role in bioinformatics training at the national level and across ELIXIR (2017)
-          authors: Larcombe, L., Hendricusdottir, R., Attwood, T. et al. 
+        - title: "ELIXIR-UK role in bioinformatics training at the national level and across ELIXIR (2017)"
+          authors: "Larcombe, L., Hendricusdottir, R., Attwood, T. et al."
           conference: "F1000Research 2017, 6:952 https://doi.org/10.12688/f1000research.11837.1"
 
 
