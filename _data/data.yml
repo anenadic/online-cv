@@ -55,7 +55,7 @@ education:
     - degree: PhD in Computer Science
       university: University of Manchester, UK
       time: 2002 - 2005
-      details: | Network security protocols
+      details: Network security protocols
 
     - degree: BSc in Mathematics & Computer Science
       university: University of Belgrade, Serbia
@@ -80,20 +80,18 @@ experiences:
       time: 2013 - 2014
       company: School of Computer Science, University of Manchester, UK
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+          - Product manager for Taverna (scientific worksflow execution system developed in Java) and BioCatalogue (registry of 
+          web servicesin life sciences, developed in Ruby on Rails 
+          and deployed on the EBI’s Embassy cloud)
+          
     - role: Senior Research Software Engineer
       time: 2010 - 2013
       company: School of Computer Science, University of Manchester, UK
       details: 
-      
+          - Development, deployment and maintenance of several Web registries, services, portal applications and scientific 
+          workflow execution software projects - Taverna (Java), BioCatalogue (Ruby on Rails product deployed in the EBI’s 
+          Embassy cloud),  BioVel (Ruby on Rails product deployed on AWS) SCAPE EU (Hadoop’s MapReduce), NeISS (Java portlet).
+          
     - role: Research Software Engineer
       time: 2008 - 2010
       company: School of Computer Science, University of Manchester, UK
