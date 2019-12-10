@@ -111,34 +111,10 @@ projects:
 
     assignments:
       - title: Carpentry community engagement
-        link: "https://carpentries.org/regionalcoordinators/"
+        link: "https://carpentries.org/"
         tagline: "2014 - present, spreading the adoption of The Carpentries model of teaching, advocating and supporting instituions on becoming members 
           of The Carpentries community, recruiting more members into the community and training instructors to help grow the capacity."
 
-      - title: Expert at Mozilla Open Life Sciences Leadership Programme
-        link: "https://www.mozillapulse.org/entry/1434"
-        tagline: "2019 -2020, helping early stage researchers and potential academic leaders to become Open Science ambassadors"
-
-      - title: BBSRC National Capabilities Mid-Term Review Panel member
-        link: "#"
-        tagline: "2019, reviewing 9 National Capabilities projects located at 5 bioscience and bioinformatics research institutions around the UK"
-
-      - title: Curriculum Advisory Committee Member for Health Data Research UK (HDR UK)
-        link: "https://www.hdruk.ac.uk/"
-        tagline: "2018-present, helping devise a public health and health data research training curriculum"
-
-      - title: Conference Lead Organiser & Project Manager for CarpentryConnect Manchester 2019
-        link: "https://software.ac.uk/ccmcr19"
-        tagline: "Project managed the whole event"
-        
-      - title: Conference Organiser for CarpentryCon Madison 2020
-        link: "https://2020.carpentrycon.org/"
-        tagline: "Responsible for website, outreach and programme"
-        
-      - title: Software and Data Carpentry workshop instructor and organiser
-        link: ""
-        tagline: "2015-present, instructed at over 20 and organised 12 Carpentry workshops"
-      
       - title: Regional Carpentry workshop coordinator and administrator for the UK
         link: "https://carpentries.org/regionalcoordinators/"
         tagline: "2016-present, advertising workshops, brokering between instructors and hosts, logging and analysis of 
@@ -147,6 +123,30 @@ projects:
       - title: Carpentries Instructor Trainer
         link: "https://carpentries.org/trainers/"
         tagline: "2017-present, taught at 9 Instructor Training workshops (of which 3 were self-organised)"
+                        
+      - title: Software and Data Carpentry workshop instructor and organiser
+        link: ""
+        tagline: "2015-present, instructed at over 20 and organised 12 Carpentry workshops"
+        
+      - title: Conference Lead Organiser & Project Manager for CarpentryConnect Manchester 2019
+        link: "https://software.ac.uk/ccmcr19"
+        tagline: "Project managed the whole event"
+        
+      - title: Conference Organiser for CarpentryCon Madison 2020
+        link: "https://2020.carpentrycon.org/"
+        tagline: "Responsible for website, outreach and programme"
+        
+      - title: Expert at Mozilla Open Life Sciences Leadership Programme
+        link: "https://www.mozillapulse.org/entry/1434"
+        tagline: "2019 -2020, helping early stage researchers and potential academic leaders to become Open Science ambassadors"
+        
+      - title: Curriculum Advisory Committee Member for Health Data Research UK (HDR UK)
+        link: "https://www.hdruk.ac.uk/"
+        tagline: "2018-present, helping devise a public health and health data research training curriculum"
+
+      - title: BBSRC National Capabilities Mid-Term Review Panel member
+        link: "#"
+        tagline: "2019, reviewing 9 National Capabilities projects located at 5 bioscience and bioinformatics research institutions around the UK"
       
       - title: Volunteer and workshop helper at EuroPython Edinburgh 2018
         link: "https://ep2018.europython.eu/en/"
@@ -159,7 +159,7 @@ projects:
       - title: Co-lead of the BioSchema community for the development of BioSchemas for life sciences training materials
         link: "https://bioschemas.org/"
         tagline: "2015-2016, a standard Schema.org markup to structure online training resources in life sciences"
-        
+
 
 publications:
     title: Publications
