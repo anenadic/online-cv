@@ -188,27 +188,15 @@ publications:
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
-
-#     papers:
-#       - title: The Art of Computer Programming
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
-
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#       - title: A syntax directed compiler for Algol 60
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
-       papers: 
-        - title: "Ten simple rules for measuring the impact of workshops. (2018)"
-          authors: "Sufi, S., Nenadic, A., Silva, R., Duckles, B., Simera, I., et al." 
-          conference: "PLOS Computational Biology 14(8):e1006191, https://doi.org/10.1371/journal.pcbi.1006191"
+      
+    papers: 
+      - title: "Ten simple rules for measuring the impact of workshops. (2018)"
+        authors: "Sufi, S., Nenadic, A., Silva, R., Duckles, B., Simera, I., et al." 
+        conference: "PLOS Computational Biology 14(8):e1006191, https://doi.org/10.1371/journal.pcbi.1006191"
           
-        - title: "ELIXIR-UK role in bioinformatics training at the national level and across ELIXIR (2017)"
-          authors: "Larcombe, L., Hendricusdottir, R., Attwood, T. et al."
-          conference: "F1000Research 2017, 6:952 https://doi.org/10.12688/f1000research.11837.1"
+      - title: "ELIXIR-UK role in bioinformatics training at the national level and across ELIXIR (2017)"
+        authors: "Larcombe, L., Hendricusdottir, R., Attwood, T. et al."
+        conference: "F1000Research 2017, 6:952 https://doi.org/10.12688/f1000research.11837.1"
 
 
 # Pawlik, A., van Gelder, C., Nenadic, A. et al. (2017) Developing a strategy for computational lab skills training through Software and Data Carpentry: Experiences from the ELIXIR Pilot action F1000Research, 6:1040, https://doi.org/10.12688/f1000research.11718.1
