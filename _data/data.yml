@@ -146,7 +146,11 @@ projects:
       
       - title: Volunteer and workshop helper - EuroPython Edinburgh - 2018
       
-      -title: Co-lead of the BioSchema community for the development of BioSchemas for life sciences training materials - a standard Schema.org markup to structure online training resources in life sciences - 2015-2016
+      - title: Volunteer and workshop helper at Hacktoberfest Manchester 2019 - part of month-long celebration of open source software by DigitalOcean, GitHub and Twilio
+        link: "https://www.meetup.com/Python-North-West-Meetup/events/265188743/"
+        tagline: "Organised by PyDataMCR, HER+data MCR, RLadiesMCR, PythonNW, and Django Girls MCR."
+      
+      - title: Co-lead of the BioSchema community for the development of BioSchemas for life sciences training materials - a standard Schema.org markup to structure online training resources in life sciences - 2015-2016
         
 
 publications:
