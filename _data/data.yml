@@ -52,10 +52,10 @@ career-profile:
       training communities. 
 
 education:
-    - degree: PhD in Computer Science
+    - degree: PhD in Computer Science (network security)
       university: University of Manchester, UK
       time: 2002 - 2005
-      details: "Network security protocols"
+      details: 
 
     - degree: BSc in Mathematics & Computer Science
       university: University of Belgrade, Serbia
