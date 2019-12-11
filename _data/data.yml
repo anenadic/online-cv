@@ -81,7 +81,7 @@ experiences:
       company: School of Computer Science, University of Manchester, UK
       details: |
           - Product manager for Taverna (scientific worksflow execution system developed in Java) and BioCatalogue (registry of 
-          web servicesin life sciences, developed in Ruby on Rails 
+          web services in life sciences, developed in Ruby on Rails 
           and deployed on the EBI’s Embassy cloud)
           
     - role: Senior Research Software Engineer
