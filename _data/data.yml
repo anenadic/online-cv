@@ -23,22 +23,22 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
-#     languages:
-#       - idiom: English
-#         level: Professional
+    languages:
+      - idiom: English
+        level: Professional
 
-#       - idiom: Serbian
-#         level: Native
+      - idiom: Serbian
+        level: Native
         
-#     interests:
-#       - item: Climbing
-#         link:
+    interests:
+      - item: Book reading
+        link:
 
-#       - item: Snowboarding
-#         link:
+      - item: Cooking
+        link:
 
-#       - item: Cooking
-#         link:
+      - item: Skiing
+        link:
 
 career-profile:
     title: Career Profile
