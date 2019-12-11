@@ -126,9 +126,8 @@ experiences:
 projects:
     title: Activities
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      My various activities, either voluntary or as part of my role, revolve around reproducibility, openness, transparenty and inclusivity
+      in research. They mainly include project management, open leadership, growing open communities, delivering training and organising events.
 
     assignments:
       - title: Carpentry community engagement
@@ -166,7 +165,7 @@ projects:
         tagline: "2018-present, helping devise a public health and health data research training curriculum"
 
       - title: BBSRC National Capabilities Mid-Term Review Panel member
-        link: "#"
+        link: ""
         tagline: "2019, reviewing 9 National Capabilities projects located at 5 bioscience and bioinformatics research institutions around the UK"
       
       - title: Volunteer and workshop helper at EuroPython Edinburgh 2018
