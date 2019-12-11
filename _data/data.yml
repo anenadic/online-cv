@@ -88,9 +88,11 @@ experiences:
       time: 2010 - 2013
       company: School of Computer Science, University of Manchester, UK
       details: |
-          - Development, deployment and maintenance of several Web registries, services, portal applications and scientific 
-          workflow execution software projects - Taverna (Java), BioCatalogue (Ruby on Rails product deployed in the EBI’s 
-          Embassy cloud),  BioVel (Ruby on Rails product deployed on AWS) SCAPE EU (Hadoop’s MapReduce), NeISS (Java portlet).
+          - Development, deployment and maintenance of several software products: Taverna (scientific workflow execution system; Java), 
+          BioCatalogue (online registry of WSDL and REST Web services from the Life Sciences domain; Ruby on Rails product deployed 
+          in the EBI’s Embassy cloud),  BioVel (virtual e-laboratory for biodiversity research; Ruby on Rails product deployed on AWS),
+          SCAPE EU (digital preservation platform using Hadoop/MapReduce), NeISS (sustainable, long-term platform for social simulation 
+          with potential for major strategic impact; Java portlets, Ruby on Rails).
           
     - role: Research Software Engineer
       time: 2008 - 2010
