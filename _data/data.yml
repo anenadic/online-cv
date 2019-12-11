@@ -124,11 +124,11 @@ experiences:
       details: |
         - Mobile phone app developer (for the first generation of Internet-emabled phones; WAP, WML) 
       
-    - role: Database developer 
+    - role: ORACLE database developer 
       time: 1999 - 2000
       company: DUEL, Belgrade, Serbia
       details: |
-        - ORACLE database developer 
+        - Developing financial applications accessing underlying ORACLE database (PL/SQL, ORACLEO Fusion Middleware)
 
 projects:
     title: Activities
