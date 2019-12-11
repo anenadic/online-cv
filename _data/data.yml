@@ -122,13 +122,13 @@ experiences:
       time: 2000 - 2001
       company: eMobile (UK) Ltd., Manchester, UK
       details: |
-        - Mobile phone app developer (for the first generation of Internet-emabled phones; WAP, WML) 
+        - Mobile phone app developer for the first generation of Internet-emabled phones (WAP, WML) 
       
     - role: ORACLE database developer 
       time: 1999 - 2000
       company: DUEL, Belgrade, Serbia
       details: |
-        - Developing financial applications accessing underlying ORACLE database (PL/SQL, ORACLEO Fusion Middleware)
+        - Developing financial applications accessing underlying ORACLE database (PL/SQL, ORACLE Fusion Middleware)
 
 projects:
     title: Activities
