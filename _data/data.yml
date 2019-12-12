@@ -64,7 +64,7 @@ education:
 
 experiences:
     - role: Training Team Lead
-      time: June 2016 - Present
+      time: 2016 - Present
       company: Software Sustainability Institute, UK
       details: |
           - Working to improve the provision and access to training in foundational computational and data management skills 
@@ -76,6 +76,12 @@ experiences:
           - Supporting the training community in the UK by organising and teaching Carpentry and Instructor Training workshops 
           and other training events to build capability and capacity within the research community in the UK and worldwide.
 
+- role: Technical Training Coordinator
+      time: 2014 - 2016
+      company: ELIXIR, EU Life Sciences Infrastructure Project
+      details: |
+      
+      
     - role: Product manager
       time: 2013 - 2014
       company: School of Computer Science, University of Manchester, UK
@@ -84,15 +90,18 @@ experiences:
           web services in life sciences, developed in Ruby on Rails 
           and deployed on the EBI’s Embassy cloud)
           
-    - role: Senior Research Software Engineer
-      time: 2010 - 2013
+    - role: Senior Research Software Engineer/Research Software Engineer
+      time: 2008 - 2013
       company: School of Computer Science, University of Manchester, UK
       details: |
-          - Development, deployment and maintenance of several software products: Taverna (scientific workflow execution system; Java), 
-          BioCatalogue (online registry of WSDL and REST Web services from the Life Sciences domain; Ruby on Rails product deployed 
-          in the EBI’s Embassy cloud),  BioVel (virtual e-laboratory for biodiversity research; Ruby on Rails product deployed on AWS),
-          SCAPE EU (digital preservation platform using Hadoop/MapReduce), NeISS (sustainable, long-term platform for social simulation 
-          with potential for major strategic impact; Java portlets, Ruby on Rails).
+          Development, deployment and maintenance of several software products: 
+          - Taverna (scientific workflow execution system; Java), 
+          - BioCatalogue (online registry of WSDL and REST Web services from the Life Sciences domain; Ruby on Rails product deployed 
+          in the EBI’s Embassy cloud),  
+          - BioVel (virtual e-laboratory for biodiversity research; Ruby on Rails product deployed on AWS),
+          - SCAPE EU (digital preservation platform using Hadoop/MapReduce), 
+          - NeISS (sustainable, long-term platform for social simulation with potential for major strategic impact; Java portlets, 
+          Ruby on Rails).
           
     - role: Research Software Engineer
       time: 2008 - 2010
