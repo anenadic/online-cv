@@ -52,8 +52,10 @@ career-profile:
       with different research and training communities.
       
       Before that, worked as software engineer and gained experience in a variety of platforms, infrastructures, technologies 
-      and programming languages. Today mainly writing code (Python, Ruby) to extract, analyse, visualise and make sense of the 
-      data I work with and to help automate daily tasks.
+      and programming languages. 
+      
+      Today mainly writing code (Python, Ruby) to extract, analyse, visualise and make sense of the data I work with 
+      and to help automate daily tasks.
 
 education:
     - degree: PhD in Computer Science (network security)
@@ -90,33 +92,28 @@ experiences:
       time: 2013 - 2014
       company: School of Computer Science, University of Manchester, UK
       details: |
-          - Product manager for Taverna (scientific worksflow execution system developed in Java) and BioCatalogue (registry of 
-          web services in life sciences, developed in Ruby on Rails 
-          and deployed on the EBI’s Embassy cloud)
+          - Product manager for Taverna (scientific workflow execution system developed in Java) and BioCatalogue (registry of 
+          web services in life sciences, developed in Ruby on Rails and deployed on an Openstack academic cloud)
           
     - role: Senior Research Software Engineer/Research Software Engineer
-      time: 2008 - 2013
+      time: 2010 - 2013
       company: School of Computer Science, University of Manchester, UK
       details: |
-          Development, deployment and maintenance of several software products: 
-          - Taverna (scientific workflow execution system; Java), 
-          - BioCatalogue (online registry of WSDL and REST Web services from the Life Sciences domain; Ruby on Rails product deployed 
-          in the EBI’s Embassy cloud),  
-          - BioVel (virtual e-laboratory for biodiversity research; Ruby on Rails product deployed on AWS),
-          - SCAPE EU (digital preservation platform using Hadoop/MapReduce), 
-          - NeISS (sustainable, long-term platform for social simulation with potential for major strategic impact; Java portlets, 
-          Ruby on Rails).
+          - Development, deployment and maintenance of several software products: 
+            - Taverna (scientific workflow execution system developed in Java), 
+            - BioCatalogue (online registry of WSDL and REST Web services from the Life Sciences domain; Ruby on Rails product deployed 
+          an Openstack academic cloud),  
+            - BioVel (virtual e-laboratory for biodiversity research; Ruby on Rails product deployed on Amazon's AWS cloud),
+            - SCAPE EU (digital preservation platform developed using Hadoop/MapReduce), 
+            - NeISS (sustainable, long-term platform for social simulation developed using Java portlets and Ruby on Rails).
           
     - role: Research Software Engineer
       time: 2008 - 2010
       company: School of Computer Science, University of Manchester, UK
       details: |
-
-    - role: Senior Research Software Engineer
-      time: 2010 - 2013
-      company: School of Computer Science, University of Manchester, UK
-      details: 
-     
+        - Development, deployment and maintenance of several software products: 
+            - Taverna (scientific workflow execution system developed in Java) 
+    
     - role: Post Doctoral Researcher
       time: 2005 - 2008
       company: School of Computer Science, University of Manchester, UK
