@@ -100,6 +100,7 @@ experiences:
       company: School of Computer Science, University of Manchester, UK
       details: |
         Development, deployment and maintenance of several software products: 
+        
             - Taverna (scientific workflow execution system developed in Java), 
             - BioCatalogue (online registry of WSDL and REST Web services from the Life Sciences domain; Ruby on Rails product deployed 
           an Openstack academic cloud),  
@@ -112,6 +113,7 @@ experiences:
       company: School of Computer Science, University of Manchester, UK
       details: |
         Development, deployment and maintenance of several software products: 
+        
             - Taverna (scientific workflow execution system developed in Java) 
     
     - role: Post Doctoral Researcher
