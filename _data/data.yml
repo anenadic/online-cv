@@ -99,22 +99,20 @@ experiences:
       time: 2010 - 2013
       company: School of Computer Science, University of Manchester, UK
       details: |
-        Development, deployment and maintenance of several software products: 
-        
+        - Development, deployment and maintenance of several software products: 
             - Taverna (scientific workflow execution system developed in Java), 
             - BioCatalogue (online registry of WSDL and REST Web services from the Life Sciences domain; Ruby on Rails product deployed 
           an Openstack academic cloud),  
-            - BioVel (virtual e-laboratory for biodiversity research; Ruby on Rails product deployed on Amazon's AWS cloud),
+            - BioVel (virtual e-laboratory for biodiversity research; Ruby on Rails product deployed on Amazon's AWS cloud)
             - SCAPE EU (digital preservation platform developed using Hadoop/MapReduce), 
-            - NeISS (sustainable, long-term platform for social simulation developed using Java portlets and Ruby on Rails).
           
     - role: Research Software Engineer
       time: 2008 - 2010
       company: School of Computer Science, University of Manchester, UK
       details: |
-        Development, deployment and maintenance of several software products: 
-        
-            - Taverna (scientific workflow execution system developed in Java) 
+        - Development, deployment and maintenance of several software products: 
+            - Taverna (scientific workflow execution system developed in Java)
+            - NeISS (sustainable, long-term platform for social simulation developed using Java portlets and Ruby on Rails).
     
     - role: Post Doctoral Researcher
       time: 2005 - 2008
