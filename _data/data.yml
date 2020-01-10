@@ -251,6 +251,9 @@ skills:
 
       - name: Javascript & jQuery
         level: 80%
+        
+      - name: Java & Maven
+        level: 70%
 
       - name: Website building technologies, content management systems
         level: 80%
