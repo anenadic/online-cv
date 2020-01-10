@@ -117,18 +117,16 @@ experiences:
       time: 2005 - 2008
       company: School of Computer Science, University of Manchester, UK
       details: |
-        Research and development of a number of security-related projects: 
-            - Shibboleth-enabled Bridge to Access the (academic) National Grid Service,
-            - Feasibility study including requirements engineering and consulting on levels of authentication assurance for the 
+        - Research and development Shibboleth-enabled Bridge to Access the (Higher Education) National Grid Service,
+        - Feasibility study including requirements engineering and consulting on levels of authentication assurance for the 
             UK Research and Higher Education communities.
     - role: Research Associate
       time: 2002 - 2005
       company: School of Computer Science, University of Manchester, UK
       details: |
-        Research and development of a number of security-related projects:
-            - Single Sign-On (SSO) and multi-factor authentication solution for federated identity and access management for 
-            academic services,
-            - Development of security protocols for secure digital signing and online exchange of digital goods.
+        - Research and development a Single Sign-On (SSO) and multi-factor authentication solution for federated identity and 
+        access management,
+        - Research and development of security protocols for secure digital signing and online exchange of digital goods.
       
     - role: Software engineer 
       time: 2000 - 2001
