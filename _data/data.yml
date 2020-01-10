@@ -161,49 +161,52 @@ projects:
         tagline: "Advertising workshops, brokering between instructors and hosts, logging and analysis of 
         workshop data for impact analysis, providing first-line of support for the community."
 
-      - title: Carpentries Instructor Trainer
+      - title: Carpentries Instructor Trainer, 2017-present
         link: "https://carpentries.org/trainers/"
-        tagline: "2017-present, taught at 9 Instructor Training workshops (of which 3 were self-organised)"
+        tagline: "Organised and taught at 9 workshops"
                         
-      - title: Software and Data Carpentry workshop instructor and organiser
+      - title: Software and Data Carpentry workshop instructor and organiser, 2015-present
         link: ""
-        tagline: "2015-present, instructed at over 20 and organised 12 Carpentry workshops"
+        tagline: "Organised and taught at over 20 workshops"
         
-      - title: Conference Lead Organiser & Project Manager for CarpentryConnect Manchester 2019
+      - title: Conference Lead Organiser & Project Manager for CarpentryConnect Manchester 2019, 2019
         link: "https://software.ac.uk/ccmcr19"
-        tagline: "Project managed the whole event"
+        tagline: "Project managed the organisation of the event"
         
-      - title: Conference Organiser for CarpentryCon Madison 2020
+      - title: Conference Organiser for CarpentryCon Madison 2020, 2020
         link: "https://2020.carpentrycon.org/"
         tagline: "Responsible for website, outreach and programme"
         
-      - title: Conference Organiser for RSE conference 2017
+      - title: Conference Organiser for RSE conference 2017, 2017
         link: "https://rse.ac.uk/rse-conference/"
         tagline: "Responsible for website and local organisation"
         
-      - title: Expert at Mozilla Open Life Sciences Leadership Programme
+      - title: Expert at Mozilla Open Life Sciences Leadership Programme, 2019 -2020
         link: "https://www.mozillapulse.org/entry/1434"
-        tagline: "2019 -2020, helping early stage researchers and potential academic leaders to become Open Science ambassadors"
+        tagline: "Helping early stage researchers and potential academic leaders to become Open Science ambassadors"
         
-      - title: Curriculum Advisory Committee Member for Health Data Research UK (HDR UK)
+      - title: Curriculum Advisory Committee Member for Health Data Research UK (HDR UK), 2018-present
         link: "https://www.hdruk.ac.uk/"
-        tagline: "2018-present, helping devise a public health and health data research training curriculum"
+        tagline: "Helping devise a public health and health data research training curriculum"
 
-      - title: BBSRC National Capabilities Mid-Term Review Panel member
+      - title: BBSRC National Capabilities Mid-Term Review Panel member, 2019
         link: ""
-        tagline: "2019, reviewing 9 National Capabilities projects located at 5 bioscience and bioinformatics research institutions around the UK"
+        tagline: "Reviewing 9 National Capabilities projects located at 5 bioscience and bioinformatics research institutions 
+        around the UK"
       
-      - title: Volunteer and workshop helper at EuroPython Edinburgh 2018
+      - title: Volunteer and workshop helper at EuroPython Edinburgh 2018, 2018
         link: "https://ep2018.europython.eu/en/"
-        tagline: "involved with 'Beginner's Day', helping people start coding with Python or solve their coding/data problems"
+        tagline: "Involved with 'Beginner's Day', helping people start coding with Python or solving their coding/data problems"
       
-      - title: Volunteer and workshop helper at Hacktoberfest Manchester 2019 
+      - title: Volunteer and workshop helper at Hacktoberfest Manchester 2019, 2019 
         link: "https://www.meetup.com/Python-North-West-Meetup/events/265188743/"
-        tagline: "Part of month-long celebration of open source software by DigitalOcean, GitHub and Twilio, and locally organised by PyDataMCR, HER+data MCR, RLadiesMCR, PythonNW, and Django Girls MCR."
+        tagline: "Helping people start coding with Python or solving their coding/data problems as part of month-long celebration 
+        of open source software by DigitalOcean, GitHub and Twilio, and locally organised by PyDataMCR, HER+data MCR, RLadiesMCR, 
+        PythonNW, and Django Girls MCR."
       
-      - title: Co-lead of the BioSchema community for the development of BioSchemas for life sciences training materials
+      - title: Co-lead of the BioSchema community for the development of BioSchemas for life sciences training materials, 2015-2016
         link: "https://bioschemas.org/"
-        tagline: "2015-2016, a standard Schema.org markup to structure online training resources in life sciences"
+        tagline: "A standard Schema.org markup to structure online training resources in life sciences"
 
 
 publications:
