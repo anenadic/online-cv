@@ -85,6 +85,10 @@ experiences:
       time: 2014 - 2016
       company: ELIXIR, EU Life Sciences Infrastructure Project
       details: |
+        - Designed, project managed and co-developed TeSS training portal (Ruby on Rails) for browsing and automated discovery 
+        of life sciences training resources,
+        - Co-led the BioSchema standard and community for the development of Schema.org markup to structure online training resources in 
+        life sciences 
       
     - role: Product manager
       time: 2013 - 2014
