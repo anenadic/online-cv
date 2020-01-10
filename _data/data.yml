@@ -87,7 +87,6 @@ experiences:
       company: ELIXIR, EU Life Sciences Infrastructure Project
       details: |
       
-      
     - role: Product manager
       time: 2013 - 2014
       company: School of Computer Science, University of Manchester, UK
@@ -118,23 +117,27 @@ experiences:
       time: 2005 - 2008
       company: School of Computer Science, University of Manchester, UK
       details: |
- 
+        Research and development of a number of security-related projects: Shibboleth-enabled Bridge to Access the (Academic) National Grid 
+        Service, feasibility study including requirements engineering and consulting on levels of authentication assurance for the 
+        UK Research and Higher Education communities.
     - role: Research Associate
       time: 2002 - 2005
       company: School of Computer Science, University of Manchester, UK
       details: |
+        Single Sign-On (SSO) and multi-factor authentication solution for federated identity and access management for academic services 
+        and development of security protocols for secure digital signing and online exchange of digital goods.
       
     - role: Software engineer 
       time: 2000 - 2001
       company: eMobile (UK) Ltd., Manchester, UK
       details: |
-        - Mobile phone app developer for the first generation of Internet-emabled phones (WAP, WML) 
+        - Mobile phone app developer for the first generation of Internet-enabled phones (WAP, WML).
       
     - role: ORACLE database developer 
       time: 1999 - 2000
       company: DUEL, Belgrade, Serbia
       details: |
-        - Developing financial applications accessing underlying ORACLE database (PL/SQL, ORACLE Fusion Middleware)
+        - Developing financial applications accessing underlying ORACLE database (PL/SQL, ORACLE Fusion Middleware).
 
 projects:
     title: Activities
