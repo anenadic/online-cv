@@ -54,7 +54,7 @@ career-profile:
       Before that, worked as software engineer and gained experience in a variety of platforms, infrastructures, technologies 
       and programming languages. 
       
-      Today mainly writing code (Python, Ruby) to extract, analyse, visualise and make sense of the data I work with 
+      Today mainly writing code (in Python and Ruby) to extract, analyse, visualise and make sense of the data I work with 
       and to help automate daily tasks.
 
 education:
@@ -99,7 +99,7 @@ experiences:
       time: 2010 - 2013
       company: School of Computer Science, University of Manchester, UK
       details: |
-          - Development, deployment and maintenance of several software products: 
+        Development, deployment and maintenance of several software products: 
             - Taverna (scientific workflow execution system developed in Java), 
             - BioCatalogue (online registry of WSDL and REST Web services from the Life Sciences domain; Ruby on Rails product deployed 
           an Openstack academic cloud),  
@@ -111,7 +111,7 @@ experiences:
       time: 2008 - 2010
       company: School of Computer Science, University of Manchester, UK
       details: |
-        - Development, deployment and maintenance of several software products: 
+        Development, deployment and maintenance of several software products: 
             - Taverna (scientific workflow execution system developed in Java) 
     
     - role: Post Doctoral Researcher
