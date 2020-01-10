@@ -46,10 +46,14 @@ career-profile:
       Over the past 5 years committed to ongoing improvement of research software practice through training and community 
       engagement work via the UK’s Software Sustainability Institute and ELIXIR EU Life Sciences Infrastructure Project. 
       Driving the training trends forward by helping communities roll out new training strategies and develop curricula 
-      for research in individual domains. Maintaining the UK’s pivotal role within the international Carpentries community 
-      by running events, helping organisations and individuals deliver Software, Data, Library and HPC Carpentry training, 
-      driving key strategic decisions and handling national and international collaborations and outreach with different 
-      research and training communities. 
+      for research in individual domains. Maintaining the UK’s pivotal role within the international research training community 
+      by running events, helping organisations and individuals deliver training for researchers in programming and data 
+      analysis skills, driving key strategic decisions and handling national and international collaborations and outreach 
+      with different research and training communities.
+      
+      Before that, worked as software engineer and gained experience in a variety of platforms, infrastructures, technologies 
+      and programming languages. Today mainly writing code (Python, Ruby) to extract, analyse, visualise and make sense of the 
+      data I work with and to help automate daily tasks.
 
 education:
     - degree: PhD in Computer Science (network security)
