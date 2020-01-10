@@ -111,10 +111,6 @@ experiences:
       time: 2008 - 2010
       company: School of Computer Science, University of Manchester, UK
       details: |
-      - Development of Taverna - an open source, domain-independent Workflow Management System, a suite of tools used to design and 
-      execute scientific workflows and aid in silico experimentation. Taverna consist of a desktop client developed in Java, and 
-      an execution server equivalent developed in .... Taverna has since 
-      been accepted as an Apache Incubator project, to further benefit from the open development process.
 
     - role: Senior Research Software Engineer
       time: 2010 - 2013
@@ -255,3 +251,4 @@ skills:
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+ 
