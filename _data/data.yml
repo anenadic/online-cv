@@ -245,20 +245,23 @@ skills:
     toolset:
       - name: Python & Django
         level: 98%
+        
+      - name: Django
+        level: 60%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Website building technologies, content management systems
+        level: 80%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 80%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 80%
 
-      - name: Sketch & Photoshop
+      - name: GIMP, Photoshop & similar image manipulation software
         level: 60%
 
 footer: >
