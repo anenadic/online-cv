@@ -224,6 +224,30 @@ publications:
       - title: "ELIXIR-UK role in bioinformatics training at the national level and across ELIXIR (2017)"
         authors: "Larcombe, L., Hendricusdottir, R., Attwood, T. et al."
         conference: "F1000Research 2017, 6:952 https://doi.org/10.12688/f1000research.11837.1"
+        
+      - title: "Developing a strategy for computational lab skills training through Software and Data Carpentry: Experiences from the ELIXIR Pilot action (2017)"
+        authors: "Pawlik, A., van Gelder, C., Nenadic, A. et al."
+        conference: "F1000Research, 6:1040, https://doi.org/10.12688/f1000research.11718.1
+        
+      - title: "TeSS–Training Portal (2016)"
+        authors: "Nenadic, A., Beard, N., Thurston, M., Sansone, S. A., Goble, C. A., & Attwood, T."
+        conference: "F1000Research, 5"        
+        
+      - title: "Tools and data services registry: a community effort to document bioinformatics resources. (2016)"
+        authors: "Ison, J. et al."
+        conference: "Nucleic Acids Res., 44(D1):D38-47, https://doi: 10.1093/nar/gkv1116"
+
+      - title: "ELIXIR’s Training eSupport System–TeSS (2015)"
+        authors: "Beard, N., Nenadic, A., Attwood, T., Goble, C., Thurston, M., & Sansone, S. A."
+        conference: "F1000Research, 4"
+       
+      - title: "arpentryConnect Manchester 2019 Conference (CCMcr19) (2019)"
+        authors: "Nenadic, A.,  Sufi, S."
+        conference: "Report, https://zenodo.org/record/3458023"
+        
+      - title: "Software Sustainability Institute’s Event Organisation Guide (2019)"
+        authors: "Sufi, S., Aragon, S., Nenadic, A."
+        conference: "https://event-organisation-guide.readthedocs.io/en/latest/"
 
 
 # Pawlik, A., van Gelder, C., Nenadic, A. et al. (2017) Developing a strategy for computational lab skills training through Software and Data Carpentry: Experiences from the ELIXIR Pilot action F1000Research, 6:1040, https://doi.org/10.12688/f1000research.11718.1
